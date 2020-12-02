@@ -1,4 +1,2 @@
-body {
-  background-color: #ffffff;
-  color: #222222;
-}
+<polyline stroke="red" stroke-width="3px" fill="none"
+  points=" 10,40 100,40 40,60 140,60 120,45 120,75 140,60" />
