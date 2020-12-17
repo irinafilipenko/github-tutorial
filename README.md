@@ -1,1 +1,2 @@
-# github-tutorial
+# goit-markup-hw-06
+Шестая домашняя работа, формы
